@@ -1,5 +1,7 @@
 # student1
 ![学生2](https://img0.baidu.com/it/u=1199350706,276432319&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=526)
+## 简介
+XXX,~~男/女~~，XXXX年加入课题组，兴趣爱好？？？
 ### 电话
 XXXXXXXXXX
 ### 邮箱
@@ -12,4 +14,3 @@ XXX@XXX.com
 * 文章1
 * 文章2
 * 文章3
-## 自我介绍？
